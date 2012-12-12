@@ -1,0 +1,22 @@
+ul#navigation {
+	height:40px;
+	overflow: hidden;
+}
+#navigation li {
+	float:left;
+	padding: 5px;
+}
+div.elements div a {
+	font-size:12px;
+	color: #E2E65B;
+}
+div.elements div p {
+	color:#666;
+}
+div.links {
+	height:40px;
+}
+div.links a {
+	color:#69C;
+	margin:0pt 5px;
+}
